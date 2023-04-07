@@ -4,4 +4,4 @@ But also, other pieces of code that can easily be recreated at home! for example
 We are open to other project types like Raspberry Pi projects, make code arcade, Roblox, and anything else you can think of! 
   
 
-To join the organization DM this account on Discord. Comrade Bacon#5638
+To join the organization DM this account on Discord: Comrade Bacon#5638
