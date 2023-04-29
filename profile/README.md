@@ -8,5 +8,4 @@ For bugs reports, help, and other things, head on over to the discussions tab!
   
 
 To join the organization DM this account on Discord: Comrade Bacon#5638
-
 (server comigng soon)
