@@ -5,6 +5,8 @@ We are open to other project types like Raspberry Pi projects, make code arcade,
 
 
 For bugs reports, help, and other things, join the Discord server.
-  
 
-To join the organization join the Discord server and DM the modmail bot. [Discord Server](https://discord.gg/K4JJh2jgFk)
+
+To join the organization join the Discord server and DM the modmail bot.
+
+[Click hear to join the server](https://discord.gg/K4JJh2jgFk)
