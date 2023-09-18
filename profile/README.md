@@ -9,4 +9,4 @@ For bugs reports, help, and other things, join the Discord server.
 
 To join the organization join the Discord server and DM the modmail bot.
 
-[Click hear to join the Discord server](https://discord.gg/K4JJh2jgFk)
+[Click here to join the Discord server](https://discord.gg/K4JJh2jgFk)
